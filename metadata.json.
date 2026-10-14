@@ -1,0 +1,18 @@
+~/leafxx $ cat metadata.json
+{
+  "name": "LeafXX",
+  "symbol": "LXX",
+  "description": "LeafXX is a community-driven token built on the Solana blockchain, inspired by nature, sustainability, and innovation. It has a fixed total supply of 777,000,000 LXX tokens, with no further minting. More Green, More Together.",
+  "image": "https://raw.githubusercontent.com/rudtaras777-creator/leafxx-assets/main/leafxx.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rudtaras777-creator/leafxx-assets/main/leafxx.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
+~/leafxx $
